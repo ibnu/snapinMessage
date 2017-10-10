@@ -1,0 +1,2 @@
+# snapinMessage
+API send SMS
